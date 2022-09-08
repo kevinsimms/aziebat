@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="new/footer/footerbig.css">
 <link rel="stylesheet" href="new/footer/footersmall.css">
  
-  
+  <!-- Twicpics -->
 <script async defer src="https://aziebat.twic.pics/?v1"></script> 
 
   <script src="script.js"></script>
