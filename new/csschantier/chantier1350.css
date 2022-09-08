@@ -1,0 +1,50 @@
+@media (max-width: 1620px){
+
+
+
+
+#background{
+   
+ padding-top:50px;
+  margin-left:auto;
+   margin-right: auto;
+   width: 1270px;
+    display: grid;
+   grid-template-columns: 200px 200px 200px 200px;
+   margin: 2px solid red;
+   grid-gap: 140px;
+
+    /* height:1400px;  */
+   
+}
+/* 
+.image2{
+   margin-left: 10%;
+   margin-right: auto;
+    border:2px solid red; 
+   
+   max-height: 400px;
+   width: 500px;
+   
+margin-top:-150px;
+   
+   position:fixed;
+   opacity: 1;
+ 
+}
+
+#textpara{  
+
+   position: fixed;
+    margin-top:450px;
+   
+    margin-left:80px;  
+   color:white;
+   z-index: 7;
+   
+   width: 100%;
+   
+} */
+
+
+}

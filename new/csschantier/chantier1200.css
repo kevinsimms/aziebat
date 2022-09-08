@@ -1,0 +1,65 @@
+@media (max-width: 1275px){
+
+    #background{
+       
+       
+       
+        display: grid;
+       grid-template-columns: 200px 200px 200px;
+       grid-gap: 140px; 
+       width: 930px;
+     
+       /* height:1900px;  */
+       
+    }
+
+
+   
+/* 
+
+
+    .image2{
+        margin-left: 0%;
+        margin-right: auto;
+        border:2px solid red; 
+        
+        max-height: 400px;
+        width: 600px;
+        
+    margin-top:-150px;
+        
+        position:fixed;
+        opacity: 1;
+      
+    }
+
+
+    #textpara{  
+
+        position: fixed;
+         margin-top:500px;
+        
+         margin-left:-80px;  
+        color:white;
+        z-index: 7;
+        
+        width: 100%;
+        
+    }
+
+     */
+
+    #fleche2{
+        height: 50px;
+          width: 50px;
+          margin-top:500px;
+          margin-left:900px;
+          position:fixed;
+          opacity: 1;
+          z-index: 3;
+      }
+
+    
+
+
+}

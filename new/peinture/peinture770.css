@@ -1,0 +1,21 @@
+@media (max-width: 770px){
+
+
+
+    #wrapping{
+        margin-top: -280px;
+        height: 400px;
+        display: grid;
+        grid-template-columns: 100%;
+      }
+
+     #thirdpart{
+
+        margin-left: 50px;
+
+        margin-top: 20px;
+     }
+
+
+
+}

@@ -1,0 +1,41 @@
+@media (max-width: 1400px){
+
+
+
+    #wrapping{
+      width: 920px;
+        display:block;
+        margin-top: 50px;
+        padding-top: 0%;
+        height: 250px;
+      }
+
+      #secondpart{
+       
+        margin-top: 00px;
+         
+      }
+
+      #thirdpart{
+        
+    position: absolute;
+        margin-top: 250px;
+        margin-left: 560px;
+          
+      } 
+
+
+      /* #thirdpartbis{
+        display: inline;
+        margin-top: 300px;
+        margin-left: -920px;
+        float: left;
+      } */
+
+
+
+#equipe{
+  margin-top: 230px;
+}
+
+}

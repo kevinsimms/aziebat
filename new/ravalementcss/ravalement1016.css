@@ -1,0 +1,71 @@
+@media (max-width: 1016px){
+
+
+
+
+    
+
+
+
+           /* secondpart */
+
+#bigwrap{
+    margin-top: -150px;
+  }
+
+
+  #wrap{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-gap:0px;
+  
+  }
+
+  
+
+.photo2{
+    width: 800px;
+    height: 600px;
+}
+
+
+
+
+/* third part */
+
+#secondpart{
+    margin-top: 0px;
+      float: left;
+      line-height: 20px;
+    
+      margin-left: 50px;
+      font-family: helvetica;
+      width: 350px;
+  }
+
+ 
+
+
+  #thirdpart{
+        
+    margin-top: 200px;
+    margin-left: -400px;
+
+  }
+
+ 
+
+  /* part4 */
+
+  #equipe{
+   
+    margin-top: 400px;
+   
+  }
+
+
+
+}

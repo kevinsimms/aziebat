@@ -1,0 +1,161 @@
+@media (max-device-width: 1000px){
+
+body{
+  background-color:#e3b01a ;
+  
+}
+
+
+#backwrap{
+  margin-top: 130px;
+  width: 1500px;
+
+  height:100%;
+
+  /* margin-bottom: 7000px; */
+  
+}
+
+
+  #background{
+    padding-top: 10px;
+    display: grid;
+    grid-template-columns: 100%;
+    
+    width: 600px;
+   
+  }
+  
+ 
+  
+  #poster{
+  
+      width: 600px;
+      height: 600px;
+  
+  }
+  
+  #image{
+      
+    
+  
+      width: 600px;
+          height: 400px;
+         
+         /*  margin: -75px 0 0 -100px; */
+  }
+  
+  
+  #titre1{
+  
+      font-size: 50px;
+  }
+  
+  #para{
+      font-size: 40px;
+      margin-top: -40px;
+  }
+  
+
+  #cross{
+    z-index: 2;
+    height: 300px;
+    width: 300px;
+   
+    margin-top:100px;
+    margin-left:100px;
+}
+
+#fleche1{
+  z-index: 2;
+  height: 150px;
+    width: 150px;
+    margin-top:560px;
+    margin-left: 100px;
+    position:fixed;
+    opacity: 1;
+}
+
+
+#fleche2{
+  z-index: 2;
+    height: 150px;
+    width: 150px;
+    margin-top:560px;
+    margin-left: 1250px;
+    position:fixed;
+    opacity: 1;
+}
+
+.image2{
+  z-index: 1;
+  margin-left:-30%;
+  margin-top:-150px;
+      width:90%;
+      position:fixed;
+      opacity: 1;
+    
+  } 
+
+
+  #textpara{
+    margin-left: 100px;
+    position: fixed;
+     margin-top:1300px;
+     width: 100%;
+   /*  margin-left:600px;  */
+    color:white;
+    z-index: 7;
+}
+
+#textpara p{
+  margin-left: 150px;
+  width: 800px;
+font-size: 60px;
+    text-align: center;
+} 
+
+#blackbg{
+  width:1500px;
+  height:100%;
+ 
+  margin-left:-450px;
+  margin-right: auto;
+  /* background-color:#373002; */
+  opacity: 1;
+  
+ 
+  
+  position: fixed;
+} 
+
+.image2{
+  margin-left: 100px;
+  margin-right: auto;
+     border:2px solid black; 
+ max-height: 1800px; 
+ 
+ /*  width: 1300px;  */
+  
+margin-top:150px;
+  
+  position:fixed;
+  opacity: 1;
+
+}
+
+
+#textpara{  
+
+  position: fixed;
+   margin-top:2000px;
+  
+   margin-left:200px;  
+  color:white;
+  z-index: 7;
+  
+  width: 100%;
+  
+}
+  
+  }

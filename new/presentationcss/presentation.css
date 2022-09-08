@@ -1,0 +1,60 @@
+#wrapper{
+padding-top: 100px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: #e2e2e2;
+}
+
+h1{
+font-family: helvetica;
+font-size: 40px;
+    color:#1c9293;
+    padding-left: 30px;
+    font-weight: 300;
+}
+
+
+#firsttextpart{
+    width: 100%;
+    background-color: #e2e2e2;
+}
+
+
+#secondimgpart{
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 100%;
+   
+}
+
+#img1{
+    width: 99%;
+}
+
+
+#colorgreen{
+    color:#1c9293;
+}
+
+#firstpara{
+    font-weight: 100;
+    font-family: helvetica;
+    font-size: 18px;
+    padding-left:30px;
+    padding-right: 30px;
+    line-height:24px;
+}
+
+#demandevis{
+    
+    margin: auto;
+    margin-top: 100px;
+    font-size: 30px;
+    padding-top: 30px;
+text-align: center;
+    width:400px;
+    height:60px;
+    background-color: #f4d717;
+    color: white;
+    border-radius: 25px;
+}

@@ -1,0 +1,66 @@
+@media (max-width: 680px){
+
+    #background{
+       
+       
+       
+        display: grid;
+       grid-template-columns: 100%;
+       
+       width: 200px;
+       /* height:3500px; */
+       
+    }
+/* 
+    #cross{
+
+        height: 100px;
+        width: 100px;
+        margin-top:50px;
+        margin-left:100px;
+        position:fixed;
+        z-index: 3;
+    }
+
+    #fleche1{
+        height: 50px;
+          width: 50px;
+          margin-top:500px;
+          margin-left:170px;
+          position:fixed;
+          opacity: 1;
+          z-index: 3;
+      }
+    
+    
+    #fleche2{
+        height: 50px;
+          width: 50px;
+          margin-top:500px;
+          margin-left:700px;
+          position:fixed;
+          opacity: 1;
+          z-index: 3;
+      }
+
+
+
+      .image2{
+        margin-left:10%;
+       
+        
+    margin-top:-150px;
+        width:400px;
+        position:fixed;
+        opacity: 1;
+      
+    }
+ */
+
+    
+
+
+
+
+
+}

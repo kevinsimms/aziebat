@@ -1,0 +1,201 @@
+/* tel slide */
+
+/* #tel{
+    margin-top: 1350px;
+} */
+
+
+
+#telslide{
+    margin-left: 100%;
+    margin-top: 200px;
+    z-index: 200;
+    display: block;
+    width: 200px;
+    background-color: #e3b01a;
+    height:5px;
+    position: fixed;
+    float: right;
+    
+    padding-top: 0px;
+    padding-bottom: 40px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius:20px;
+    transform: translateX(-70px);
+
+    transition-duration: 1s;
+    transition-property: transform;
+
+
+}
+
+#telslide p{
+    margin-left: 30px;
+   
+    float: left;
+    color: white;
+}
+
+
+
+#telslide:hover{
+    transform: translateX(-210px);
+    transition-duration: 1s;
+transition-property: transform;
+}
+
+#telphoto{
+    float: left;
+    height:35px;
+    padding-left: 15px;
+    margin-top: 5px;
+}
+
+
+
+/* ----- */
+
+
+#telslide2{
+    margin-left: 100%;
+    margin-top: 270px;
+    z-index: 200;
+    display: block;
+    width: 200px;
+    background-color: #e3b01a;
+    height:5px;
+    position: fixed;
+    float: right;
+    
+    padding-top: 0px;
+    padding-bottom: 40px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius:20px;
+    transform: translateX(-70px);
+
+    transition-duration: 1s;
+    transition-property: transform;
+
+
+}
+
+#telslide2 p{
+    margin-left: 30px;
+   
+    float: left;
+    color: white;
+}
+
+
+
+#telslide2:hover{
+    transform: translateX(-210px);
+    transition-duration: 1s;
+transition-property: transform;
+}
+
+
+/* ----- */
+
+
+#telslide3{
+    margin-left: 100%;
+    margin-top: 340px;
+    z-index: 200;
+    display: block;
+    width: 200px;
+    background-color: #e3b01a;
+    height:5px;
+    position: fixed;
+    float: right;
+    
+    padding-top: 0px;
+    padding-bottom: 40px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius:20px;
+    transform: translateX(-70px);
+
+    transition-duration: 1s;
+    transition-property: transform;
+
+
+}
+
+#telslide3 p{
+    margin-left: 30px;
+   
+    float: left;
+    color: white;
+}
+
+
+
+#telslide3:hover{
+    transform: translateX(-210px);
+    transition-duration: 1s;
+transition-property: transform;
+}
+
+
+/* ----- */
+
+
+#telslide4{
+    margin-left: 100%;
+    margin-top: 410px;
+    z-index: 200;
+    display: block;
+    width: 200px;
+    background-color: #e3b01a;
+    height:5px;
+    position: fixed;
+    float: right;
+    
+    padding-top: 0px;
+    padding-bottom: 40px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius:20px;
+    transform: translateX(-70px);
+
+    transition-duration: 1s;
+    transition-property: transform;
+
+
+}
+
+#telslide4 p{
+    margin-left: 30px;
+   
+    float: left;
+    color: white;
+}
+
+
+
+#telslide4:hover{
+    transform: translateX(-210px);
+    transition-duration: 1s;
+transition-property: transform;
+}
+
+
+@media (max-device-width: 1000px){
+
+    #telslide{
+
+        display: none;
+    }
+
+    #telslide2{
+        display: none;
+    }
+
+    #telslide3{
+        display: none;
+    }
+
+    #telslide4{
+        display: none;
+    }
+
+}

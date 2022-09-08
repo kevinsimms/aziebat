@@ -1,0 +1,136 @@
+@media (max-width: 800px){
+
+    #bigwrap{
+        
+       width: 730px;
+     }
+
+    #wrapper{
+        margin-right:0px;
+        padding-top: 100px;
+            display: grid;
+            grid-template-columns: 100%;
+            background-color: #e2e2e2;
+            width:730px;
+        }
+
+        #firsttextpart{
+            width: 720px;
+            background-color: #e2e2e2;
+
+        }
+
+
+        #secondimgpart{
+            margin-top: 50px;
+            margin-bottom: auto;
+            
+            
+            width: 70%;
+           
+        }
+
+        #img1{
+            width: 140%;
+
+            display: block;
+        }
+    
+        #img2{
+            width: 99%;
+            display: none;
+        }
+
+
+        
+
+/* second part */
+
+#wrapper2{
+    margin-right:0px;
+    width:730px;
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column-reverse;
+        background-color: #e2e2e2;
+        
+    }
+
+
+
+    #textqual{
+        width:550px;
+    }
+
+
+
+#secondtextpart{
+
+width: 700px;
+
+
+}
+
+
+/* third part */
+
+#wrapper3{
+    margin-right:0px;
+    padding-top: 100px;
+        display: grid;
+        grid-template-columns: 100%;
+        background-color: #e2e2e2;
+        width:730px;
+    }
+
+    #demandevis2{
+        margin-bottom: 50px;
+       
+        
+    }
+
+
+
+
+/* fourtpart */
+
+#wrapper4{
+    margin-right:0px;
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column-reverse;
+        background-color: #e2e2e2;
+        width:730px;
+    }
+
+    #img42{width: 710px;
+      }
+
+
+
+/* fifth part */
+
+#wrapper5{
+    margin-right:0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+    margin-left: auto;
+margin-right: auto;
+    width:580px;
+   }
+
+
+   /* 
+footer */
+
+
+#subfoot{
+    background-color:rgb(61, 61, 61);
+    margin-left: auto;
+    margin-right: auto;
+    width:680px;
+}
+
+
+}

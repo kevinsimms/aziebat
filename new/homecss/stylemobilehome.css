@@ -1,0 +1,849 @@
+
+@media (max-device-width: 1000px){
+
+/* menu */
+
+#logo{
+    height: 200px;
+    float: left;
+    z-index: 80;
+}
+
+#menu{
+    display: none;
+}
+
+
+
+
+/* button */
+
+
+#button{
+    
+    margin-top: 0px;
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin-left: 1100px;
+    z-index: 50;
+    position:absolute;
+}
+
+.line{height:20px ;
+    margin-top:40px;
+    background-color: #86bc24;
+}
+
+#togglemenu{
+    
+    
+   
+    display: none;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    z-index: 49;
+    position: absolute;
+}
+
+
+.horirule{
+display: block;
+    height:5px;
+    width:90%;
+    background-color: #86bc24;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 5%;
+}
+
+.horirule2{
+    display: block;
+        height:5px;
+        width:90%;
+        background-color: #86bc24;
+        position: absolute;
+        margin-top: 110px;
+        margin-left: 5%;
+    }
+
+    .horirule3{
+        display: block;
+            height:5px;
+            width:90%;
+            background-color: #86bc24;
+            position: absolute;
+            margin-top: 130px;
+            margin-left: 5%;
+        }
+
+        .horirule4{
+            display: block;
+                height:5px;
+                width:90%;
+                background-color: #86bc24;
+                position: absolute;
+                margin-top: 130px;
+                margin-left: 5%;
+            }
+
+            .horirule5{
+                display: block;
+                    height:5px;
+                    width:90%;
+                    background-color: #86bc24;
+                    position: absolute;
+                    margin-top: -150px;
+                    margin-left: 5%;
+                }
+
+                .horirule6{
+                    display: block;
+                        height:5px;
+                        width:90%;
+                        background-color: #86bc24;
+                        position: absolute;
+                        margin-top: -100px;
+                        margin-left: 5%;
+                    }
+
+                    .horirule7{
+                        display: block;
+                            height:5px;
+                            width:90%;
+                            background-color: #86bc24;
+                            position: absolute;
+                            margin-top: -100px;
+                            margin-left: 5%;
+                        }
+
+#logowrap{
+    margin-top: 250px;
+    display: flex;
+
+  
+    
+}
+
+#logo1{
+    width: 300px;
+    margin-left: -150px;
+}
+
+#logoname{
+    margin-left: 300px;
+    margin-top:90px;
+    font-size: 70px;
+    font-family: helvetica;
+    color:#86bc24;
+}
+
+
+#logowrap2{
+    margin-left: 0px;
+    margin-top: 50px;
+    display: flex;
+    width: 900px;
+}
+
+#logo2{
+    width: 300px;
+    margin-left: 0px;
+}
+
+#logoname2{
+    margin-left: 300px;
+    width: 600px;
+    margin-top:120px;
+    font-size: 70px;
+    font-family: helvetica;
+    color:#86bc24;
+}
+
+#logowrap3{
+    margin-left: 110px;
+    margin-top: 100px;
+    display: flex;
+    
+}
+
+#logo3{
+    width: 250px;
+    margin-left: -120px;
+}
+
+#logoname3{
+    margin-top:110px;
+    font-size: 70px;
+    font-family: helvetica;
+    color:#86bc24;
+    margin-left: 180px;
+}
+
+
+#logowrap4{
+    margin-left: -200px;
+    margin-top: 350px;
+    display: flex;
+    
+}
+
+#logo4{
+    width: 300px;
+}
+
+#logoname4{
+    padding-top: 50px;
+   margin-top: -150px;
+   font-size: 70px;
+   font-family: helvetica;
+   color:#86bc24;
+    margin-left: 500px;
+}
+
+
+#logowrap5{
+    margin-left: -450px;
+    margin-top: 600px;
+    display: flex;
+    
+}
+
+
+
+#logoname5{
+   margin-top: -350px;
+   font-size: 70px;
+   font-family: helvetica;
+   color:#86bc24;
+    margin-left: 750px;
+}
+
+
+#logowrap6{
+    margin-left: -450px;
+    margin-top: 300px;
+    display: flex;
+    
+}
+
+
+
+#logoname6{
+   margin-top: -300px;
+   font-size: 70px;
+   font-family: helvetica;
+   color:#86bc24;
+    margin-left: 750px;
+}
+
+#logowrap7{
+    margin-left: -450px;
+    margin-top: 300px;
+    display: flex;
+    
+}
+
+
+
+#logoname7{
+   margin-top: -300px;
+   font-size: 70px;
+   font-family: helvetica;
+   color:#86bc24;
+    margin-left: 750px;
+}
+
+
+#logowrap8{
+    margin-left: -450px;
+    margin-top: 300px;
+    display: flex;
+    
+}
+
+
+
+#logoname8{
+   margin-top: -300px;
+   font-size: 70px;
+   font-family: helvetica;
+   color:#86bc24;
+    margin-left: 750px;
+}
+
+
+
+/* photo head */
+
+.photo1{
+   
+    width: 1500px;
+    
+    margin-top: 50px;
+    
+        /* height: 550px; */
+      }
+
+      .photo2{
+       
+        width: 1500px;
+        
+        position: absolute;
+margin-top:-72%;
+        
+            /* height: 550px; */
+          }
+
+
+      #dynamisme{
+         
+margin-left: 125px;
+margin-top: -500px;
+        font-size: 95px;
+        width: 1300px;
+        z-index: 200;
+        position:absolute;
+
+      }
+
+
+      #title2{
+        margin-top: -250px;
+        z-index: 200;
+        position:absolute;
+          margin-left: 0px;
+          font-size: 75px;
+          width: 1500px;
+      }
+
+
+/* tel slide */
+
+#telslide{
+    margin-top: 100px;
+    z-index: 50;
+    display: none;
+    width: 600px;
+    background-color: #e3b01a;
+    height:100px;
+    position: fixed;
+    float: right;
+    
+    padding-top: 0px;
+    padding-bottom: 40px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius:20px;
+    transform: translateX(-230px);
+
+    transition-duration: 1s;
+    transition-property: transform;
+
+
+}
+
+#telslide p{
+    margin-left: 70px;
+   font-size: 50px;
+    float: left;
+    color: white;
+}
+
+
+
+#telslide:hover{
+    transform: translateX(-600px);
+    transition-duration: 1s;
+transition-property: transform;
+}
+
+#telphoto{
+    float: left;
+    height:100px;
+    padding-left: 0px;
+    margin-left: 70px;
+    margin-top: 25px;
+}
+
+
+#telslide2{
+    margin-top: 300px;
+    z-index: 50;
+    display: none;
+    width: 600px;
+    background-color: #e3b01a;
+    height:100px;
+    position: fixed;
+    float: right;
+    
+    padding-top: 0px;
+    padding-bottom: 40px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius:20px;
+    transform: translateX(-230px);
+
+    transition-duration: 1s;
+    transition-property: transform;
+
+
+}
+
+#telslide2 p{
+    margin-left: 70px;
+   font-size: 50px;
+    float: left;
+    color: white;
+}
+
+#telslide2:hover{
+    transform: translateX(-600px);
+    transition-duration: 1s;
+transition-property: transform;
+}
+
+
+#telslide3{
+    margin-top: 500px;
+    z-index: 50;
+    display: none;
+    width: 600px;
+    background-color: #e3b01a;
+    height:100px;
+    position: fixed;
+    float: right;
+    
+    padding-top: 0px;
+    padding-bottom: 40px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius:20px;
+    transform: translateX(-230px);
+
+    transition-duration: 1s;
+    transition-property: transform;
+
+
+}
+
+
+#telslide3 p{
+    margin-left: 70px;
+   font-size: 50px;
+    float: left;
+    color: white;
+}
+
+
+#telslide3:hover{
+    transform: translateX(-600px);
+    transition-duration: 1s;
+transition-property: transform;
+}
+
+
+#telslide4{
+    margin-top: 700px;
+    z-index: 50;
+    display: none;
+    width: 600px;
+    background-color: #e3b01a;
+    height:100px;
+    position: fixed;
+    float: right;
+    
+    padding-top: 0px;
+    padding-bottom: 40px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius:20px;
+    transform: translateX(-230px);
+
+    transition-duration: 1s;
+    transition-property: transform;
+
+
+}
+
+#telslide4 p{
+    margin-left: 70px;
+   font-size: 50px;
+    float: left;
+    color: white;
+}
+
+#telslide4:hover{
+    transform: translateX(-600px);
+    transition-duration: 1s;
+transition-property: transform;
+}
+
+ /*  Il nous font confiance */
+
+ #confiancetext{
+   margin-left: -100px;
+font-size: 96px;
+
+  }
+
+  #confiancewrapper{
+margin-top: 200px;
+    width: 1375px;
+    height:900px;
+    padding-top: 100px;
+    margin-left: 100px;
+  }
+
+
+  #confiancelogo{
+    display: grid;
+    grid-template-columns: 33% 33%;
+      }
+
+
+      #confiancelogo1{
+        width: 145px;
+        height:145px;
+        margin-left: 20px;
+        margin-top: 50px;
+    }
+    #confiancelogo2{
+        margin-top: 20px;
+        margin-left: -30px;
+        width: 250px;
+        height:145px;
+    }
+    #confiancelogo3{
+        margin-left: 50px;
+        margin-top: 10px;
+        width: 280px;
+        height:154px;
+    }
+    #confiancelogo4{
+        display: none;
+        margin-top: 80px;
+        margin-left: 75px;
+        width: 220px;
+        height:125px;
+    }
+    #confiancelogo5{
+        margin-left: 0px;
+        width: 200px;
+        height:200px;
+        margin-top: 25px;
+    }
+    
+    #confiancelogo6{
+        
+       margin-top: 10px;
+        margin-left: 75px;
+        width: 250px;
+        height:250px;
+    }
+
+
+    #confiancelogo7{
+        display: block;
+        margin-top: 40px;
+         margin-left: 100px;
+         width: 500px;
+         height:500px;
+     }
+
+     #confiancelogo8{
+        display: block;
+        margin-top: 25px;
+         margin-left: 0px;
+         width: 250px;
+         height:250px;
+     }
+ 
+ 
+     #confiancelogo9{
+        display: block;
+         margin-top: 40px;
+          margin-left: 100px;
+          width: 260px;
+          height:220px;
+      }
+
+
+      #confiancelogobis{
+        display: block;
+      }
+
+
+      #confiancelogo7bis{
+        width: 500px;
+         height:500px;
+         display: none;
+      }
+
+      #confiancelogo8bis{
+        display: none;
+      }
+
+      #confiancelogo9bis{
+        display: none;
+      }
+      
+
+
+      #confiancelogo7bis2{
+        display: block;
+position: absolute;
+width: 200px;
+height: 200px;
+margin-left: 880px;
+margin-top: -300px;
+      }
+
+      #confiancelogo8bis2{
+        display: block;
+position: absolute;
+width: 200px;
+height: 200px;
+margin-left: 350px;
+margin-top: 00px;
+      }
+
+      #confiancelogo9bis2{
+        display: block;
+position: absolute;
+width: 200px;
+height: 200px;
+margin-left: 880px;
+margin-top: 00px;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* posters */
+
+#pwrap{
+    background-color: #e3b01a;
+    height: 8700px;
+    margin-top: 450px;
+    margin-bottom: -25px;
+    width: 1500px;
+}
+
+#posterwrap{
+   
+                display: grid;
+                grid-template-columns: 100%;
+                margin-left: 190px;
+               }
+
+
+               #poster1{
+                   margin-left: -75px;
+                margin-top: 300px;
+                padding: 30px;
+                padding-top: 180px;
+               margin-bottom: 50px;
+               border-radius: 40px;
+                            width: 1200px;
+                            height: 2200px;
+                            
+                           }
+
+                           #poster1 p{
+                            font-size: 85px;
+                            color: rgb(129, 129, 129);
+                            font-weight: 30px;
+                            
+                        }
+
+                        #poster1 h3{
+                            font-size: 95px;
+                            font-weight: 20px;
+                            
+                            
+                        }
+
+
+#photoequipe{
+    width: 800px;
+    height: 600px;
+}
+
+.phototeam{
+    width: 800px;
+    height: 600px;
+}
+
+/* partenaires */
+
+#partenairewrapper{
+    
+    padding-top: 25px;
+    margin-top: 0px;
+    width: 1500px;
+                height:1250px;
+                background-color: rgb(226, 226, 226);
+             }
+    
+
+#partenairelogo{
+    position: relative;
+    margin-left: 50px;
+    margin-top: -30px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    
+ }
+
+ .logopartenaire{
+    height: 500px;
+    width: 500px;
+
+ }
+
+ #textpartenairewrapper{
+    text-align: center;
+    padding-top: 50px;
+    
+}
+
+
+ #partenairetext{
+    
+   
+     
+    font-size: 96px;
+
+ }
+ #logopartenaire1{
+  
+    margin-left: 150px;
+}
+
+#logopartenaire2{
+   
+    margin-left: 400px;
+}
+
+
+#logopartenaire3{
+    margin-top: -200px;
+    margin-left: 150px;
+}
+
+
+
+
+
+#logopartenaire4{
+    margin-top: -90px;
+    width: 200px;
+    height: 200px;
+    margin-left: 500px;
+}
+
+
+#logopartenaire5{
+    margin-top: 0px;
+    margin-left: 500px;
+    width: 400px;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+/*    footer */
+
+/* 
+#footer{
+    width:1500px;
+    height: 1100px;
+    background-color: rgb(61, 61, 61);
+    display: grid;
+    grid-template-columns: 40% 60%;
+    grid-gap: 5px;
+}
+
+#wrapfoot1 h2{
+    font-size: 80px;
+    color:white;
+    margin-left:100px;
+    padding-top:25px;
+    font-family: helvetica;
+
+}
+
+#wrapfoot2 h2{
+    font-size: 80px;
+  color:white;
+  margin-left:100px;
+  padding-top:25px;
+  font-family: helvetica;
+
+}
+
+.firstp{
+    font-weight: 100;
+    line-height: 65px;
+    font-size: 55px;
+  color:white;
+  margin-left:100px;
+  margin-top:50px;
+  width:550px;
+  font-family: helvetica;
+  
+}
+
+.nextp{
+  width:680px;
+  font-family: helvetica;
+  font-weight: 100;
+    line-height: 65px;
+    font-size: 55px;
+  color:white;
+  margin-left:100px;
+  margin-top: -10px;
+}
+
+.spanfoot{
+  color:#e3b01a;
+}
+
+#subfoot{
+    width: 1500px;
+    margin-top: -20px;
+  }
+  
+  #siret{
+    font-size: 40px ;
+    width:1400px;
+    margin-left: 150px;
+    margin-right: auto;
+    font-family: helvetica;
+    color: white;
+  
+  }
+ */
+
+
+
+
+
+
+
+
+
+
+}

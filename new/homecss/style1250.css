@@ -1,0 +1,103 @@
+
+@media (max-width: 1250px){
+
+
+   /*  #confiancewrapper{
+       
+                    margin-top: -10%;
+        padding-top: 0px;
+                   } */
+
+
+    /* #confiancelogo{
+   
+        width:1250px;
+        margin-left: auto;
+        margin-right: auto;
+        display: grid;
+        grid-template-columns: 33% 33% 33%;
+          } */
+
+
+
+/* tel */
+
+/* #telslide{
+ 
+   margin-top: -300px;
+
+} */
+
+
+#telwrap{
+   margin-top: -30%;
+ }
+
+
+
+
+
+          #confiancelogo7{
+            display:none;
+            margin-top: -10px;
+             margin-left: 75px;
+             width: 55px;
+             height:55px;
+         }
+    
+         #confiancelogo8{
+            display:none;
+            margin-top: -15px;
+             margin-left: 75px;
+             width: 80px;
+             height:80px;
+         }
+    
+         #confiancelogo9{
+            display:none;
+            margin-top: -10px;
+             margin-left: 75px;
+             width: 80px;
+             height:60px;
+         }
+
+         #confiancelogo7bis{
+            
+            margin-top: -10px;
+             margin-left: 75px;
+             width: 55px;
+             height:55px;
+         }
+    
+         #confiancelogo8bis{
+            
+            margin-top: -15px;
+             margin-left: 75px;
+             width: 80px;
+             height:80px;
+         }
+    
+         #confiancelogo9bis{
+           
+            margin-top: -10px;
+             margin-left: 75px;
+             width: 80px;
+             height:60px;
+         }
+
+         #confiancelogobis{
+            margin-top: 70px;
+            display: flex;
+        
+            justify-content: center;
+         }
+
+
+      /*    poster */
+      #posterwrap{
+         margin-top: 250px;
+         
+                     
+                    }
+
+}

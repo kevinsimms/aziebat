@@ -1,0 +1,80 @@
+@media (max-width: 768px){
+
+
+    .contentwrap{
+    
+        display: grid;
+        grid-template-columns: 100%;
+        width: 100%;
+        
+    }
+    
+
+
+    #firstpart{
+        width: 100%;
+        
+       
+       
+    }
+
+
+    #secondpart{
+        width: 100%;
+        
+       
+       
+    }
+
+    #finputs{
+        margin-left: 20px;
+    }
+
+    #name{
+    
+        height: 44px;
+        width: 49%;
+        padding-left: 0px;
+        margin-left: 0px;
+    
+    }
+    #name2{
+
+        width: 95%;
+    }
+
+    #subbut{
+        margin-left: 10px;
+        width: 95%;
+    }
+
+
+/* part2 */
+
+.adressetext{
+   
+    
+   
+    line-height: 10px;
+    
+   text-align: center;
+}
+
+
+
+.adressetext2{
+    
+   
+    line-height: 5px;
+    padding-top: 0px;
+    text-align: center;
+}
+
+.frame{
+    padding-top: 50px;
+    padding-left:60px;
+    width: 360px;
+}
+
+
+}

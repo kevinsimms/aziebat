@@ -1,0 +1,260 @@
+
+@media (max-width: 786px){
+
+    /* menu */
+    
+    #logo{
+        height: 100px;
+        float: left;
+        z-index: 80;
+    }
+    
+    #menu{
+        display: none;
+    }
+    
+    
+    #button{
+    
+        margin-top: 0px;
+        display: block;
+        width: 70px;
+        height: 200px;
+       float: right;
+        z-index: 50;
+        position:absolute;
+        margin-left: 600px;
+    }
+    
+    
+    
+    
+    .line{height:5px ;
+        margin-top:20px;
+        background-color: #86bc24;
+    }
+    
+    #togglemenu{
+        
+        
+       
+        display: none;
+        width: 100%;
+        height: 960px;
+        background-color: white;
+        z-index: 49;
+        position: fixed;
+    }
+    
+    
+    .horirule{
+    display: block;
+        height:2px;
+        width:400px;
+        background-color: #86bc24;
+        position: absolute;
+        margin-top: 30px;
+        margin-left: 135px;
+    }
+    
+    .horirule2{
+        
+        display: block;
+            height:2px;
+            width:400px;
+            background-color: #86bc24;
+            position: absolute;
+            margin-top: 30px;
+            margin-left: 135px;
+        }
+    
+        .horirule3{
+            display: block;
+                height:2px;
+                width:400px;
+                background-color: #86bc24;
+                position: absolute;
+                margin-top: 40px;
+                margin-left: 135px;
+            }
+
+            .horirule4{
+                display: block;
+                    height:2px;
+                    width:400px;
+                    background-color: #86bc24;
+                    position: absolute;
+                    margin-top: -220px;
+                    margin-left: 135px;
+                }
+                .horirule5{
+                    display: block;
+                        height:2px;
+                        width:400px;
+                        background-color: #86bc24;
+                        position: absolute;
+                        margin-top: -250px;
+                        margin-left: 135px;
+                    }
+
+                    .horirule6{
+                        display: block;
+                            height:2px;
+                            width:400px;
+                            background-color: #86bc24;
+                            position: absolute;
+                            margin-top: -280px;
+                            margin-left: 135px;
+                        }
+
+                        .horirule7{
+                            display: block;
+                                height:2px;
+                                width:400px;
+                                background-color: #86bc24;
+                                position: absolute;
+                                margin-top: -310px;
+                                margin-left: 135px;
+                            }
+    
+    #logowrap{
+        margin-top: 25px;
+        display: flex;
+    
+      
+        
+    }
+    
+    #logo1{
+        width: 300px;
+        margin-left: -150px;
+    }
+    
+    #logoname{
+        margin-left: 230px;
+        margin-top:90px;
+        font-size: 15px;
+        font-family: helvetica;
+        color:#86bc24;
+    }
+    
+    
+    #logowrap2{
+        margin-left: 0px;
+        margin-top: 10px;
+        display: flex;
+        width: 900px;
+    }
+    
+    #logo2{
+        width: 300px;
+        margin-left: -150px;
+    }
+    
+    #logoname2{
+        margin-left: 300px;
+        width: 600px;
+        margin-top:60px;
+        font-size: 15px;
+        font-family: helvetica;
+        color:#86bc24;
+    }
+    
+    #logowrap3{
+        margin-left: 110px;
+        margin-top: 20px;
+        display: flex;
+        
+    }
+    
+   
+    
+    #logoname3{
+        margin-top:50px;
+        font-size: 15px;
+        font-family: helvetica;
+        color:#86bc24;
+        margin-left: 180px;
+    }
+    
+    
+    #logowrap4{
+        margin-left: -200px;
+        margin-top: 350px;
+        display: flex;
+        
+    }
+    
+  
+    
+    #logoname4{
+       margin-top: -270px;
+       font-size: 15px;
+       font-family: helvetica;
+       color:#86bc24;
+        margin-left: 500px;
+    }
+    
+    
+    #logowrap5{
+        margin-left: -200px;
+        margin-top: 130px;
+        display: flex;
+        
+    }
+    
+    #logoname5{
+        margin-top: -310px;
+        font-size: 15px;
+        font-family: helvetica;
+        color:#86bc24;
+         margin-left: 500px;
+     }
+
+     #logowrap6{
+        margin-left: -200px;
+        margin-top: 130px;
+        display: flex;
+        
+    }
+    
+    #logoname6{
+        margin-top: -340px;
+        font-size: 15px;
+        font-family: helvetica;
+        color:#86bc24;
+         margin-left: 500px;
+     }
+    
+     #logowrap7{
+        margin-left: -200px;
+        margin-top: 130px;
+        display: flex;
+        
+    }
+    
+    #logoname7{
+        margin-top: -370px;
+        font-size: 15px;
+        font-family: helvetica;
+        color:#86bc24;
+         margin-left: 500px;
+     }
+
+     #logowrap8{
+        margin-left: -200px;
+        margin-top: 130px;
+        display: flex;
+        
+    }
+    
+    #logoname8{
+        margin-top: -400px;
+        font-size: 15px;
+        font-family: helvetica;
+        color:#86bc24;
+         margin-left: 500px;
+     }
+    
+    
+}

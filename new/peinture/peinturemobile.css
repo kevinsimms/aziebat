@@ -1,0 +1,144 @@
+@media (max-device-width: 1000px){
+
+
+
+#photopresentation{
+
+    width: 1500px;
+    
+
+}
+
+ .photo1{
+   
+    margin-top: 100px;
+    width: 1500px;
+} 
+
+#title2{
+    margin-top: -400px;
+    font-size: 70px;
+}
+
+/* second part */
+
+#wrapping{
+ 
+  
+  grid-template-columns: 100%;
+
+ 
+}
+
+
+#firstpart{
+       
+  
+  margin-top: 00px;
+    float: left;
+    line-height: 60px;
+   min-height: 240px;
+    margin-left: 100px;
+    font-family: helvetica;
+    width: 1000px;
+}
+
+#firstpart h2{
+     
+  font-size: 70px;
+ 
+}
+
+
+#firstpart p{
+         
+  font-size: 55px;
+ 
+}
+
+
+
+
+#secondpart{
+    margin-top: 100px;
+      float: left;
+      line-height: 50px;
+     
+      margin-left: 100px;
+      font-family: helvetica;
+      width: 800px;
+  }
+
+  #secondpart h2{
+     
+    font-size: 70px;
+   
+}
+
+
+  #secondpart p{
+     
+      font-size: 55px;
+     
+  }
+
+  #roul1{
+    margin-top: 300px;
+    margin-right: -300px;
+    float: right;
+    height: 100px;
+  }
+
+  #thirdpart{
+        
+    width: 1200px;
+    margin-top: 1700px;
+    margin-bottom: 800px;
+
+  
+     
+      text-align: right;
+      margin-left: 150px;
+      line-height: 50px;
+      font-family: helvetica;
+  }
+
+  #thirdpart h2{
+    font-size: 70px;
+  }
+
+  #thirdpart p{
+    font-size: 55px;
+  }
+
+
+
+
+
+/* third part */
+
+#equipe{
+    font-family: helvetica;
+    margin-top: 1700px;
+    background-color: white;
+    height: 300px;
+    width: 1500px;
+  }
+
+
+  #equipe h2{
+    padding-top: 70px;
+    text-align: center;
+    font-size: 70px;
+  }
+  #equipe h3{
+    text-align: center;
+    font-size: 70px;
+  }
+
+  #equipe p{
+    text-align: center;
+    font-size: 55px;
+  }
+
+}

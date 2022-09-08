@@ -1,0 +1,53 @@
+@media (max-device-width: 1000px){
+
+
+
+
+  
+ 
+  
+ 
+  
+  #image{
+      
+    
+  
+    max-width: 1000px;
+    max-height: 9000px ;
+         
+         /*  margin: -75px 0 0 -100px; */
+  }
+  
+  
+ 
+  
+  #paradescription{
+      font-size: 60px;
+      color: white;
+      text-align: center;
+  }
+  
+
+  #cross{
+    height: 300px;
+    width: 300px;
+}
+
+#fleche1{
+  margin-left: 00px;
+  height: 150px;
+    width: 150px;
+    
+}
+
+
+#fleche2{
+  
+    height: 150px;
+    width: 150px;
+  
+}
+
+
+  
+  }

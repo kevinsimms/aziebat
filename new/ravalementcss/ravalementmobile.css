@@ -1,0 +1,144 @@
+@media (max-device-width: 1000px){
+
+
+    #photopresentation{
+        z-index: -1;
+          
+            position: relative;
+            padding-top: 100px;
+            width: 1500px;
+        
+            height: 550px;
+            display: block;
+            
+            
+        }
+    
+        .photo1{
+            width: 1500px;
+             position: absolute; 
+                
+              }
+    
+    #title2{
+       
+        margin-top: 300px;
+        font-size: 70px;
+    }
+
+/* secondpart */
+
+#bigwrap{
+    margin-top: 200px;
+    grid-template-columns: 100%;
+  }
+
+ /*  #wrap{
+
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: 100%;
+   
+  } */
+
+  #firstwrap{
+    margin-left: 150px;
+    width: 1300px;
+  }
+
+  #firstwrap h4{
+    font-size: 70px;
+  }
+  
+  #firstwrap p{
+    font-size: 50px;
+    line-height: 45px;
+  }
+
+  .photo2{
+    width:1500px;
+    height: 1000px;
+         
+        }
+
+
+/* third part */
+
+#secondpart{
+    margin-top: 100px;
+      float: left;
+      line-height: 20px;
+      font-size: 50px; 
+      margin-left: 150px;
+      font-family: helvetica;
+      width: 1000px;
+  }
+
+
+  #secondpart p{
+    width: 1000px;
+    font-size: 50px;
+    line-height: 45px;
+   
+}
+
+#thirdpart{
+    font-size: 50px;
+    width: 350px;
+    margin-top: 100px;
+    margin-left: 150px;
+      float:right;
+      line-height: 20px;
+      font-family: helvetica;
+     
+  }
+
+  #thirdpart p{
+    width: 1000px;
+    font-size: 60px;
+    line-height: 45px;
+   
+}
+
+  #roul2{
+    margin-top: 320px;
+    float: right;
+    height: 100px;
+    padding-right:0px;
+  }
+
+
+/* part4 */
+
+#equipe{
+    font-family: helvetica;
+    margin-top: 100px;
+    background-color: #f4d717;
+    width: 1500px;
+    height: 1000px;
+  }
+
+
+  #equipe h2{
+    padding-top: 70px;
+    text-align: center;
+    font-size: 70px;
+  }
+  #equipe h3{
+    text-align: center;
+    font-size: 70px;
+  }
+
+  #equipe p{
+    text-align: center;
+    font-size: 55px;
+  }
+
+
+
+
+
+
+}

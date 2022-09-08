@@ -1,0 +1,82 @@
+#subfoot{
+    background-color:rgb(61, 61, 61);
+    width:auto;
+
+  
+}
+
+#siret{
+    text-align:center;
+    color:white;
+    font-family: helvetica;
+    padding-bottom: 30px;
+}
+
+
+#wrapfoot1 h2{
+    color:white;
+    margin-left:50px;
+    padding-top:25px;
+    font-family: helvetica;
+
+}
+
+.firstp{
+    font-weight: 100;
+    line-height: 20px;
+    font-size: 14px;
+  color:white;
+  margin-left:50px;
+  margin-top:50px;
+  width:370px;
+  font-family: helvetica;
+  
+}
+
+#wrapfoot2{
+  margin-left: -20%;
+ 
+  width: 370px;
+}
+
+
+
+#wrapfoot2 h2{
+  color:white;
+  margin-left:50px;
+  padding-top:25px;
+  font-family: helvetica;
+
+}
+
+.nextp{
+ 
+  width:330px;
+  font-family: helvetica;
+  font-weight: 100;
+    line-height: 20px;
+    font-size: 14px;
+  color:white;
+  margin-left:50px;
+  margin-top: -10px;
+}
+
+.spanfoot{
+  color:#e3b01a;
+}
+
+
+
+#footer1{
+
+    display: grid;
+    grid-template-columns: 400px 400px;
+    
+    grid-gap: 100px;
+}
+
+
+a{
+
+  color: #e3b01a;
+}

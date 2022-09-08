@@ -1,0 +1,173 @@
+/*    footer */
+
+
+#footer{
+    height: 300px;
+    background-color: rgb(61, 61, 61);
+    display: grid;
+    grid-template-columns: 400px 400px;
+    
+    grid-gap: 30px;
+}
+
+#wrapfoot1 h2{
+    color:white;
+    margin-left:100px;
+    padding-top:25px;
+    font-family: helvetica;
+
+}
+
+#wrapfoot2 h2{
+  color:white;
+  margin-left:100px;
+  padding-top:25px;
+  font-family: helvetica;
+
+}
+
+.firstp{
+    font-weight: 100;
+    line-height: 20px;
+    font-size: 14px;
+  color:white;
+  margin-left:100px;
+  margin-top:50px;
+  width:420px;
+  font-family: helvetica;
+  
+}
+
+.nextp{
+  width:400px;
+  font-family: helvetica;
+  font-weight: 100;
+    line-height: 20px;
+    font-size: 14px;
+  color:white;
+  margin-left:100px;
+  margin-top: -10px;
+}
+
+.spanfoot{
+  color:#e3b01a;
+}
+
+#subfoot{
+  background-color: rgb(61, 61, 61);
+
+  
+}
+
+#siret{
+
+  width:470px;
+  margin-left:100%;
+  margin-right: auto;
+  font-family: helvetica;
+  color: white;
+
+}
+
+#footwrap{
+ height: 360px;
+  background-color: rgb(61, 61, 61);
+}
+
+@media (max-width: 850px){
+
+
+  #footer{
+    height: 600px;
+    background-color: rgb(61, 61, 61);
+    display: grid;
+    grid-template-columns: 100%;
+    
+   
+}
+
+
+
+
+
+
+}
+
+@media (max-device-width: 1000px){
+
+
+
+  
+#footer{
+  width:1500px;
+  height: 1100px;
+  background-color: rgb(61, 61, 61);
+  display: grid;
+  grid-template-columns: 40% 60%;
+  grid-gap: 5px;
+}
+
+#wrapfoot1 h2{
+  font-size: 80px;
+  color:white;
+  margin-left:100px;
+  padding-top:25px;
+  font-family: helvetica;
+
+}
+
+#wrapfoot2 h2{
+  font-size: 80px;
+color:white;
+margin-left:100px;
+padding-top:25px;
+font-family: helvetica;
+
+}
+
+.firstp{
+  font-weight: 100;
+  line-height: 65px;
+  font-size: 55px;
+color:white;
+margin-left:100px;
+margin-top:50px;
+width:550px;
+font-family: helvetica;
+
+}
+
+.nextp{
+width:680px;
+font-family: helvetica;
+font-weight: 100;
+  line-height: 65px;
+  font-size: 55px;
+color:white;
+margin-left:100px;
+margin-top: -10px;
+}
+
+.spanfoot{
+color:#f4d717;
+}
+
+#subfoot{
+  width: 1500px;
+  margin-top: -20px;
+}
+
+#siret{
+  font-size: 40px ;
+  width:1400px;
+  margin-left: 150px;
+  margin-right: auto;
+  font-family: helvetica;
+  color: white;
+
+}
+
+
+
+
+}

@@ -1,0 +1,182 @@
+
+
+#photopresentation{
+  z-index: -1;
+    position: relative;
+padding-top: 10px;
+   
+    display: block;
+   
+    
+    
+}
+
+
+#header{
+  display: block;
+  height: 100px;
+ /*  width: 1500px; */
+  margin-top: 00px;
+  
+}
+
+/* #wrap{
+  display: block;
+  height: 100px;
+  width: 1500px;
+  margin-top: 00px;
+  background-color: red;
+} */
+
+
+
+.photo1{
+    width: 100%;
+     position: relative; 
+        /* height: 550px; */
+       
+      }
+
+      #title2{
+        z-index: 160;
+        font-family: helvetica;
+        font-weight: 400;
+        color: #e3b01a;
+        width: 100%;
+        margin: auto;
+    text-align: center;
+      position:absolute;
+      margin-top: -22%;
+      font-size: 38px;
+    
+      }
+
+
+
+#wrapping{
+  
+  position: relative;
+ margin-top: 50px;
+  height:250px;
+  width: 1400px;
+  display: grid;
+  grid-template-columns: 500px 500px 500px;
+
+ 
+}
+
+#firstpart{
+
+
+       
+  color:rgb(90, 90, 90);
+  margin-top: 00px;
+    float: left;
+    line-height: 20px;
+   min-height: 240px;
+    margin-left: 50px;
+    font-family: helvetica;
+    width: 450px;
+}
+
+#firstpart p{
+         
+  font-size: 13px;
+ 
+}
+
+#secondpart{
+ 
+       
+  color:rgb(90, 90, 90);
+  margin-top: 00px;
+    float: left;
+    line-height: 20px;
+   min-height: 240px;
+    margin-left: 50px;
+    font-family: helvetica;
+    width: 350px;
+}
+
+      #secondpart p{
+         
+          font-size: 13px;
+         
+      }
+
+      #thirdpart{
+   
+        position: relative;
+        
+        color:rgb(90, 90, 90);
+        width: 350px;
+        margin-top: 00px;
+          float:right;
+          line-height: 20px;
+          font-family: helvetica;
+          min-height: 240px;
+      }
+
+      #thirdpart p{
+        font-size: 13px;
+      }
+
+      .lightweight{
+        font-weight: 100;
+      }
+
+
+      #roul1{
+        margin-top: 170px;
+        float: left;
+        height: 100px;
+      }
+
+      #roul2{
+        margin-top: 170px;
+        float: right;
+        height: 100px;
+        padding-right:20px;
+      }
+
+
+/* #thirdpartbis{
+
+ 
+  display: none;
+  position: relative;
+        
+        color:rgb(90, 90, 90);
+        width: 350px;
+        margin-top: 00px;
+          float:right;
+          line-height: 20px;
+          font-family: helvetica;
+          min-height: 240px;
+}
+
+#thirdpartbis p{
+  font-size: 13px;
+} */
+
+
+      #equipe{
+        color: rgb(90, 90, 90);
+        font-family: helvetica;
+        margin-top: 50px;
+        background-color: #e3b01a;
+        height: 00px;
+      }
+
+
+      #equipe h2{
+        padding-top: 70px;
+        text-align: center;
+      }
+      #equipe h3{
+        text-align: center;
+      }
+
+      #equipe p{
+        text-align: center;
+      }

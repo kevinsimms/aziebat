@@ -1,0 +1,18 @@
+@media (max-width: 1270px){
+
+
+    #bigwrap{
+   
+         grid-template-columns: 400px 400px;
+         width: 400px;
+        
+       }
+    
+       #thirdpart{
+       margin-left: 50px;
+      }
+    
+
+
+
+}
