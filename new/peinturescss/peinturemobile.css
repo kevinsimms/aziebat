@@ -11,7 +11,7 @@
 
  .photo1{
    
-    margin-top: 100px;
+  margin-top: 120px;
     width: 1500px;
 } 
 
@@ -52,7 +52,7 @@
 
 #firstpart p{
          
-  font-size: 55px;
+  font-size: 35px;
  
 }
 
@@ -78,7 +78,8 @@
 
   #secondpart p{
      
-      font-size: 55px;
+      font-size: 35px;
+      width: 1000px;
      
   }
 
@@ -92,7 +93,7 @@
   #thirdpart{
         
     width: 1200px;
-    margin-top: 1700px;
+    margin-top: 1600px;
     margin-bottom: 800px;
 
   
@@ -104,11 +105,16 @@
   }
 
   #thirdpart h2{
+    
     font-size: 70px;
   }
 
   #thirdpart p{
-    font-size: 55px;
+    text-align: justify;
+    justify-content: right; 
+    width: 1000px;
+    font-size: 35px;
+    float: right;
   }
 
 

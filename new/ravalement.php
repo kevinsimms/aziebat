@@ -53,27 +53,22 @@ include "tel.php";
 
 <div id="bigwrap">
 
-<!-- <div id="wrap"> -->
+
 
 <div id="firstwrap">
-    <h4>Une expérience significative</h4>
-<p> Bardage de bois</p>
+    <h2>Bardage de bois</h2>
+
 <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
 
 </div>
 
-<!-- <div> -->
-<!-- <img src="photo/bardage.jpg" alt ="photo1" class="photo2" >  -->
-<!-- </div>
-
-
-</div> -->
 
 
 
 
 
 
+<div id="secondwrap">
 
 <div id="secondpart">
     <h2> <strong>Ravalement</strong> </h2>
@@ -82,6 +77,7 @@ include "tel.php";
 </div>
 <!-- <img src="photo/peinture/rouleau.png" alt ="photo1" id="roul1" > --> 
 
+</div>
 
 
 <div id="thirdpart">
@@ -93,9 +89,25 @@ include "tel.php";
 <!-- <img src="photo/peinture/rouleau.png" alt ="photo1" id="roul2" >  -->
 </div>
 
+
+
+<div id="secondpart2">
+    <h2> <strong>Ravalement</strong> </h2>
+   <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+
+</div>
+
+<div id="secondpart3">
+
+<h2> <strong>Peinture</strong></h2>
+<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+
+   </div>
+
+
 <div id="equipe">
-<h2>Équipe de peintre professionnelle: </h2>
-<h3>  peinture de qualité</h3>
+<h2>Équipe de peintre professionnelle </h2>
+
 <p> Faire appel à des professionnels reste la meilleure solution pour une réalisation homogène et des finitions de qualité, que ce soit pour vos intérieurs ou extérieurs.
 </p>
 <p>Azie bat centre vous accompagne de l’élaboration à la concrétisation de votre projet pour un résultat durable et de qualité.</p>

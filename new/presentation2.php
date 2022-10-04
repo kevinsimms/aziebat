@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="presentationcss/presentation2.css">
 <link rel="stylesheet" href="presentationcss/presentation2_1200.css">
 <link rel="stylesheet" href="presentationcss/presentation2_800.css">
-<link rel="stylesheet" href="presentationcss/presentation2_mobile.css">
+<link rel="stylesheet" href="presentationcss/presentation3_mobile.css">
 
 <link rel="stylesheet" href="footer/footerbig.css">
 <link rel="stylesheet" href="footer/footersmall.css">
@@ -122,15 +122,18 @@ include "tel.php";
 
 <div id="wrapper3">
 
+
+
 <div id="firsttextpart2"><h1>Les prestations d'AZIE BAT CENTRE</h1>
+
 
 <p id="firstpara"><span id="colorgreen">AZIE BAT CENTRE</span> est une équipe efficace et dynamique à votre disposition pour toute étude de travaux de peinture et de revêtements de sols. Nous pouvons réaliser tous vos projets grâce aux compétences techniques de nos compagnons et partenaires :</p>
 
-<ul>
+ <ul>
 
-<p id="firstli">TRAVAUX DE PEINTURES : Nos peintres qualifiés sont à votre disposition pour réaliser tous vos travaux de peinture et de revêtements muraux avec une finition parfaite, pour vos intérieurs et vos extérieurs, en neuf ou en rénovation : peintures décoratives, peintures industrielles, peintures à l’ancienne ou encore pose de papier peint, de fibre de verre, de faïence.</p>
-<p id="firstli">REVÊTEMENTS DE SOLS  : Nous saurons vous conseiller et vous proposer des solutions et des matériaux adaptés à vos goûts pour habiller tous vos planchers, grâce à des revêtements de sols adaptés : ils peuvent être en bois, en synthétique imitant le parquet, en textile, en pierres ou céramiques, en caoutchouc, linoléum ou PVC : parquet, stratifié, moquette, sol vinyle, carrelage, moquette...</p>
-<p id="firstli">RAVALEMENT ET ISOLATION DE FAÇADES : Afin d’entretenir et de valoriser votre patrimoine, nos compagnons qualifiés ont les compétences techniques et le savoir faire nécessaire pour appliquer le traitement spécifique adapté à l’état de chaque façade.</p>
+<p class="bullet3" id="firstli3">TRAVAUX DE PEINTURES : Nos peintres qualifiés sont à votre disposition pour réaliser tous vos travaux de peinture et de revêtements muraux avec une finition parfaite, pour vos intérieurs et vos extérieurs, en neuf ou en rénovation : peintures décoratives, peintures industrielles, peintures à l’ancienne ou encore pose de papier peint, de fibre de verre, de faïence.</p>
+<p class="bullet3" id="firstli3">REVÊTEMENTS DE SOLS  : Nous saurons vous conseiller et vous proposer des solutions et des matériaux adaptés à vos goûts pour habiller tous vos planchers, grâce à des revêtements de sols adaptés : ils peuvent être en bois, en synthétique imitant le parquet, en textile, en pierres ou céramiques, en caoutchouc, linoléum ou PVC : parquet, stratifié, moquette, sol vinyle, carrelage, moquette...</p>
+<p class="bullet3" id="firstli3">RAVALEMENT ET ISOLATION DE FAÇADES : Afin d’entretenir et de valoriser votre patrimoine, nos compagnons qualifiés ont les compétences techniques et le savoir faire nécessaire pour appliquer le traitement spécifique adapté à l’état de chaque façade.</p>
 
 
 </ul>
@@ -142,7 +145,7 @@ include "tel.php";
 
 
 <div id="thirdimgpart"><img src="presentationphoto/photo3pres.jpeg" id="img31"/><img src="presentationphoto/photo3etroit.jpeg" id="img32"/></div>
-
+ 
 
 
 
@@ -152,7 +155,7 @@ include "tel.php";
 <!-- 
 fourth part -->
 
-<div id="wrapper4">
+ <div id="wrapper4">
 
 <div id="secondimgpart"><img src="presentationphoto/photo4pres.jpeg" id="img41"/><img src="presentationphoto/photo4etroit.jpeg" id="img42"/></div>
 
@@ -176,7 +179,7 @@ fourth part -->
 </div>
 
 
-</div>
+</div> 
 
 
 
@@ -211,7 +214,7 @@ fourth part -->
 
 </div>
 
-</div>
+</div> 
 
 
 
@@ -220,13 +223,18 @@ fourth part -->
 
 
 </div>
+
+
 
 <div id="footerwrap">
 <?php
 
-include "footer/footer2.php";
+ include "footer/footer2.php"; 
 
 ?>
+
+
+
 </div>
 
 </div>

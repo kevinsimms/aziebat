@@ -15,8 +15,8 @@
   <link rel="stylesheet" href="new/footer/footerbig.css">
 <link rel="stylesheet" href="new/footer/footersmall.css">
  
-  <!-- Twicpics -->
-<script async defer src="https://aziebat.twic.pics/?v1"></script> 
+  
+ <script async defer src="https://aziebat.twic.pics/?v1"></script> 
 
   <script src="script.js"></script>
 </head>
@@ -165,7 +165,7 @@ include "new/menu2home.php";
 
 <!-- Partenaires -->
 
-<!-- 
+
 <div id="partenairewrapper">
 
     <div id="textpartenairewrapper">
@@ -183,7 +183,7 @@ include "new/menu2home.php";
     </div>
     
     </div>
- -->
+
 
 
 

@@ -54,7 +54,7 @@ include "tel.php";
 
 <div id="firstpart">
 
-<h2>Équipe de peintre professionnelle: </h2>
+<h2>Équipe de peintre professionnelle </h2>
 <p> Faire appel à des professionnels reste la meilleure solution pour une réalisation homogène et des finitions de qualité, que ce soit pour vos intérieurs ou extérieurs.
 </p>
 <p>Azie bat centre vous accompagne de l’élaboration à la concrétisation de votre projet pour un résultat durable et de qualité.</p>
@@ -62,10 +62,13 @@ include "tel.php";
 
 </div>
     
+<div id="secondwrap">
+
 <div id="secondpart">
     <h2> <strong>Peinture</strong> <span class="lightweight">intérieur </span></h2>
     <p>En fonction de la pièce (cuisine, salle de bains, salon, chambre…) et des surfaces que vous souhaitez peindre (murs, plafonds, sols), nous vous apportons tous les conseils dont vous avez besoin pour votre projet intérieur.</p>
     
+</div>
 
 </div>
 <!-- <img src="photo/peinture/rouleau.png" alt ="photo1" id="roul1" >  -->

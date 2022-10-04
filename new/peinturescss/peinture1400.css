@@ -3,7 +3,7 @@
 
 
     #wrapping{
-      width: 920px;
+    
         display:block;
         margin-top: 50px;
         padding-top: 0%;
@@ -11,16 +11,25 @@
       }
 
       #secondpart{
-       
-        margin-top: 00px;
+       border: 2px solid white;
+        margin-top: 25px;
+        margin-left: 470px;
          
+      }
+
+      #secondwrap{
+       
+        width: 100%;
+      
+      
       }
 
       #thirdpart{
         
-    position: absolute;
-        margin-top: 250px;
-        margin-left: 560px;
+        
+     position: absolute;
+        margin-top: 0px;
+        margin-left: 475px; 
           
       } 
 

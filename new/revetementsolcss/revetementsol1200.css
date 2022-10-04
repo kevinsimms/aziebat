@@ -1,0 +1,55 @@
+@media (max-width: 1200px){
+
+
+
+    #title2{
+        
+      margin-top: 170px;
+      
+    
+      }
+
+
+
+           /* secondpart */
+
+#bigwrap{
+    margin-top: -90px;
+  }
+
+
+  #bigsubwrap{
+    width: 1330px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: 30% 40%;
+    grid-gap:0px;
+  }
+
+  #wrap{
+
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: 40% 40%;
+    grid-gap:0px;
+  }
+  
+  
+  #wrap2{
+  
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: 40% 40%;
+    grid-gap:0px;
+  }
+
+
+
+
+
+}

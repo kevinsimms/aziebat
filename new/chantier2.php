@@ -60,10 +60,13 @@ include "menu2.php";
 
 <?php
 
-session_start();
+/*  session_start(); */  
+
 $_SESSION["result"]='a';
 
 $_SESSION["count"]=-1;
+
+
 
 if(isset($_GET["name"]))
 {
@@ -130,7 +133,7 @@ if(!isset($_SESSION["count"])){
 if(isset($_GET["action"]))
 {
 
- 
+ /* 
 	if($_GET["action"] == "add")
 	{
 	
@@ -146,6 +149,10 @@ $chantcount= $_SESSION["orderchantier".$i];
 
   }
 
+ 
+	
+ 
+
   if($_GET["action"] == "less")
 	{
 	
@@ -159,11 +166,10 @@ $chantcount= $_SESSION["orderchantier".$j];
 
 
 
-  }
+  } */
 
 
- /*  echo $_SESSION["count"];
-  echo $chantcount; */
+
 
     echo '<div id ="blackbg">';
 
@@ -176,6 +182,7 @@ $chantcount= $_SESSION["orderchantier".$j];
 
    echo '<a id="link" href="chantier2.php">';
     echo '<img src="imgchantier/xcross.png" alt="jo" id="cross" onclick="toggle()">';
+    
     echo "</a>";
 
 if($_SESSION["count"]>0){
@@ -376,7 +383,7 @@ $full=utf8_encode($row["fullname"]);
 $desc=utf8_encode($row["Descriptionchantier"]);
 $photo="upload/".$row["Urlphoto"];
 
-echo '<a id="link" href="chantier.php?action=add&name='.$rowline2.'">';
+echo '<a id="link" href="chantier.php?action=zero&name='.$rowline2.'">';
   echo  '<div id="poster">';
 
  
@@ -400,6 +407,8 @@ echo "</a>";
 }
 
 mysqli_close($conn);
+
+
 
 
 

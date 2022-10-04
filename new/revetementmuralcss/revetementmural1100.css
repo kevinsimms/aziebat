@@ -1,0 +1,27 @@
+
+@media (max-width: 1100px){
+
+    #bigwrap{
+       
+       width: 100%;
+     
+      }
+
+    #wrap{
+     
+      margin: auto;
+        width: 450px ;
+        grid-template-columns: 100%;
+       
+      }
+
+
+      #firstwrap h4{
+        width: 470px ;
+      }
+      
+      #firstwrap p{
+        width: 470px ;
+      }
+
+}

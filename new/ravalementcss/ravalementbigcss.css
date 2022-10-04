@@ -40,25 +40,42 @@
 
 #bigwrap{
 
-  margin-top: 50px;
+  margin-top: 100px;
+/* margin-left: auto;
+margin-right: auto;
   display: grid;
-  grid-template-columns: 450px 450px 450px;
-  width: 1270px;
+  grid-template-columns: 350px 350px 350px;
+  grid-gap:100px;
+  width: 1300px;
+  padding-left: 4%; */
 }
 
 #wrap{
+ 
+width: 100%;
 
- float: left;
 }
 
 
 #firstwrap{
+
+ 
+
+margin-left: 50px;
+
+  text-align: justify;
+  text-justify: inter-word;
+
   float:left;
   color:rgb(90, 90, 90);
   font-family: helvetica;
   width:350px;
   line-height: 20px;
-  margin-left: 50px;
+  /* margin-left: 50px; */
+  margin-bottom: 100px;
+
+
+  
 }
 
 #firstwrap h4{
@@ -77,15 +94,37 @@ width:450px;
 
 /* third part */
 
+#secondwrap{
+ 
+  width: 100%;
+ 
+
+}
+
       #secondpart{
+        
+
+        text-align: justify;
+        text-justify: inter-word;
+
+
         color:rgb(90, 90, 90);
         
-          float: left;
+         
           line-height: 20px;
-          margin-top: 10px;
-          margin-left: 50px;
+          
+          
           font-family: helvetica;
           width: 350px;
+          margin-left: auto;
+          margin-right: auto;
+        
+          padding-top: 2px;
+         
+      }
+
+      #secondpart h4{
+        margin-top: 20px;
       }
 
 
@@ -98,13 +137,18 @@ width:450px;
       }
 
       #thirdpart{
+        margin-top: -175px;
+        text-align: justify;
+        text-justify: inter-word;
+
         color:rgb(90, 90, 90);
         width: 350px;
-        margin-top: 10px;
-        margin-right: 150px;
+       
+        margin-right: 50px;
           float:right;
           line-height: 20px;
           font-family: helvetica;
+        
       }
 
       #thirdpart p{
@@ -129,12 +173,23 @@ width:450px;
         padding-right:100px;
       }
 
+
+      #secondpart2{
+
+        display: none;
+      }
+
+      #secondpart3{
+
+        display: none;
+      }
+
 /* part4 */
 
       #equipe{
         color:rgb(90, 90, 90);
         font-family: helvetica;
-        margin-top: 10px;
+        margin-top: 150px;
         background-color: #e3b01a;
         height: 300px;
       }

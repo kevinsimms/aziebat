@@ -1,13 +1,17 @@
-@media (max-device-width: 780px){
+@media (max-device-width: 1000px){
 
 
-
+#content{
+  
+    width: 1500px;
+}
 
     .contentwrap{
     
         display: grid;
         grid-template-columns: 100%;
         width: 100%;
+        height: 1200px;
         
     }
     
@@ -16,14 +20,14 @@
     #firstpart{
         width: 100%;
         height: 1000px;
-       
+       margin-top: 130px;
        
     }
 
 
     #secondpart{
         width: 100%;
-        height: 1400px;
+        height: 1500px;
         
        
        
@@ -37,18 +41,33 @@
         font-size: 35px;
         margin-top: 50px;
         height: 100px;
-        width: 49%;
+        width: 45%;
         padding-left: 0px;
         margin-left: 0px;
         border-bottom: 15px solid #1c9293;
+        padding-left: 20px;
+    
+    }
+
+    #name1{
+        font-size: 35px;
+        margin-top: 50px;
+        height: 100px;
+        width: 45%;
+        padding-left: 0px;
+        margin-left: 60px;
+        border: 0px solid red;
+        border-bottom: 15px solid #1c9293;
+        padding-left: 20px;
     
     }
     #name2{
         font-size: 35px;
         margin-top: 50px;
-        height: 100px;
+        height: 300px;
         border-bottom: 15px solid #1c9293;
         width: 95%;
+        padding-left: 20px;
     }
 
     #subbut{
@@ -56,13 +75,21 @@
         width: 95%;
         height: 100px;
         font-size: 35px;
+        margin-top:0px;
+    }
+
+
+    .g-recaptcha{
+
+        min-height:150px;
+        width: 400px;
     }
 
 
 /* part2 */
 
 .adressetext{
-   
+   margin-top: 120px;
     font-size: 50px;
    
     line-height: 10px;
@@ -91,10 +118,11 @@
 
 .frame{
     padding-top: 50px;
-    padding-left:60px;
+    margin-left: 300px;
     width: 800px;
     height: 700px;
 }
+
 
 
 

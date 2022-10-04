@@ -36,10 +36,10 @@ include "menu2.php";
             <form action="" method="post" >
        <div id="finputs">
          <input type="text" id="name" name="fname"  placeholder="PRÉNOM *" required minlength="2" maxlength="58" size="10">
-        <input type="text" id="name" name="lname"  placeholder="NOM *" required minlength="2" maxlength="58" size="10">
+        <input type="text" id="name1" name="lname"  placeholder="NOM *" required minlength="2" maxlength="58" size="10">
          
         <input type="text" id="name" name="email"  placeholder="VOTRE ADRESSE EMAIL *" required minlength="4" maxlength="58" size="10">
-        <input type="text" id="name" name="tel"  placeholder="TELEPHONE *" required minlength="4" maxlength="58" size="10">
+        <input type="text" id="name1" name="tel"  placeholder="TELEPHONE *" required minlength="4" maxlength="58" size="10">
     </div>
         <input type="text" id="name2" name="message"  placeholder="VOTRE MESSAGE *" required minlength="4" maxlength="408" size="10">
         
@@ -126,9 +126,10 @@ $email_body="Nom: $User_name.\n".
         <h3 class="adressetext2" id="adressid2">8H – 18H</h3>
         <h3 class="adressetext2" id="adressid2">SANS INTERRUPTION</h3>
         
-
+<div id="wrapframe">
         <iframe class="frame" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2673.972085712972!2d1.9493273155064053!3d47.91757757443702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e4fca45103759b%3A0x70478c2ec28388cf!2s95%20Av.%20Denis%20Papin%2C%2045800%20Saint-Jean-de-Braye!5e0!3m2!1sfr!2sfr!4v1646837590304!5m2!1sfr!2sfr" width="330" height="230" marginTop="15px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         
+        </div>
 
         </div>
     </div>

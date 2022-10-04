@@ -4,7 +4,7 @@
 <div id="header">
 
 <div id="whitespace">
-<img src="photo/logoaziebat.png" alt="photo" id="logo">
+<a id="linkacc" href="../home.php"><img src="photo/logoaziebat.png" alt="photo" id="logo"></a>
 
 <div id="button" onclick="toggle()">
         <div class="line"></div>
@@ -54,7 +54,7 @@
     <div class="horirule5"></div>
     
     <div id="logowrap6">
-        <a id="link" href="presentation2.php"> <div id="logoname6">Qui sommes nous</div></a>
+        <a id="link" href="presentation2.php"> <div id="logoname6">Qui sommes nous ?</div></a>
     </div>
     
     <div class="horirule6"></div>
@@ -83,7 +83,7 @@
 
     <ul>
         <div id="revetement1" onmouseover="peinture0()" onmouseout="outpeinture0()"><div><a id="link" href="../home.php"><li >Accueil</li></a></div><div id="entrepriseline0"></div></div>
-        <div id="revetement6" onmouseover="peinture5()" onmouseout="outpeinture5()"><a id="link" href="presentation2.php"><li>Qui sommes nous</li></a><div id="entrepriseline5"></div></div>
+        <div id="revetement6" onmouseover="peinture5()" onmouseout="outpeinture5()"><a id="link" href="presentation2.php"><li>Qui sommes nous ?</li></a><div id="entrepriseline5"></div></div>
 <div id="revetement2"  onmouseover="peinture()" onmouseout="outpeinture()"><div><a id="link" href="peinture.php"><li >Peinture</li></a></div><div id="entrepriseline1"></div></div>
 <div id="revetement3" onmouseover="peinture2()" onmouseout="outpeinture2()"><a id="link" href="ravalement.php"><li>Ravalement</li></a><div id="entrepriseline2"></div></div>
 <div id="revetement4" onmouseover="peinture3()" onmouseout="outpeinture3()"><a id="link" href="revetementmural.php"><li>Revêtement mural</li></a><div id="entrepriseline3"></div></div>
@@ -91,8 +91,11 @@
 
 
 
-<div id="revetement7" onmouseover="peinture6()" onmouseout="outpeinture6()"><a id="link" href="chantier2.php"><li>Chantiers</li></a><div id="entrepriseline6"></div></div>
-<div id="revetement8" onmouseover="peinture7()" onmouseout="outpeinture7()"><a id="link" href="pagedevis.php"><li>Contact</li></a><div id="entrepriseline7"></div></div>
+<div id="revetement7" onmouseover="peinture6()" onmouseout="outpeinture6()"><div><a id="link" href="chantier2.php"><li>Chantiers</li></a></div><div id="entrepriseline6"></div></div>
+<div id="revetement8" onmouseover="peinture7()" onmouseout="outpeinture7()"><div><a id="link" href="pagedevis.php"><li>Contact</li></a></div><div id="entrepriseline7"></div></div>
+
+
+
 
 
     </ul>
@@ -101,6 +104,17 @@
 </div>
 
 
+</div>
+
+<div id="menutab">
+<a id="acc" class="tab" href="../home.php"><li >Accueil</li></a>
+<a id="qui" class="tab" href="presentation2.php"><li>Qui sommes nous ?</li></a>
+<div><a id="peint" class="tab" href="peinture.php"><li >Peinture</li></a></div>
+<a id="rav" class="tab" href="ravalement.php"><li>Ravalement</li></a>
+<a id="revmural" class="tab" href="revetementmural.php"><li>Revêtement mural</li></a>
+<a id="revsol" class="tab" href="revetementsol.php"><li>Revêtement de sol</li></a>
+<div><a id="chant" class="tab" href="chantier2.php"><li>Chantiers</li></a></div>
+<div><a id="cont" class="tab" href="pagedevis.php"><li>Contact</li></a></div>
 </div>
 
 

@@ -47,15 +47,17 @@ body{
     
         #img2{
             width: 600px;
-            height: 1200px;
+            height: 1230px;
             display: block;
         }
 
 
         #demandevis{
         
-            
-            margin-top: 0px;
+            padding-bottom:10px;
+            margin-top: -10px;
+            margin-bottom: 10px;
+
             
         }
     
@@ -136,11 +138,14 @@ width: 500px;
 
     #img32{width: 99%;
         display: block;
-    height: 860px;}
+    height: 891px;
+    }
 
 
     #demandevis2{
-        margin-top: 0px;
+        padding-bottom:10px;
+        margin-top: -10px;
+        margin-bottom: 10px;
        
         
     }
@@ -172,7 +177,9 @@ width: 500px;
 
     #img42{width: 120%;
         display: block;
-    height: 1000px;}
+    height: 1000px;
+
+}
 
 
 

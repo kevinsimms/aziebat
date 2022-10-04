@@ -4,15 +4,32 @@
 /* menu */
 
 #logo{
-    height: 200px;
+    
+    /* margin-left: 200px;
+    margin-top: 180px; */
+    transform: scale(2);
     float: left;
     z-index: 80;
+    /* border: 10px solid blue; */
 }
 
 #menu{
     display: none;
 }
 
+#whitespace{
+   
+  /*   border: 2px solid red; */
+    padding-bottom: 150px;
+}
+
+
+
+
+#header{
+border: 8px solid #86bc24;
+    height: 400px;
+}
 
 
 
@@ -21,7 +38,7 @@
 
 #button{
     
-    margin-top: 0px;
+    padding-top: 110px;
     display: block;
     width: 200px;
     height: 200px;
@@ -281,7 +298,7 @@ display: block;
    
     width: 1500px;
     
-    margin-top: 50px;
+    margin-top: 120px;
     
         /* height: 550px; */
       }

@@ -15,21 +15,22 @@
         }
     
         .photo1{
+          margin-top: 120px;
             width: 1500px;
-             position: absolute; 
+              
                 
               }
     
     #title2{
+       position: absolute;
        
-        margin-top: 300px;
         font-size: 70px;
     }
 
 /* secondpart */
 
 #bigwrap{
-    margin-top: 200px;
+    margin-top: 400px;
     grid-template-columns: 100%;
   }
 
@@ -45,7 +46,8 @@
 
   #firstwrap{
     margin-left: 150px;
-    width: 1300px;
+    width: 1150px;
+    font-size: 50px; 
   }
 
   #firstwrap h4{
@@ -53,8 +55,9 @@
   }
   
   #firstwrap p{
-    font-size: 50px;
-    line-height: 45px;
+    font-size: 32px;
+    line-height: 50px;
+   
   }
 
   .photo2{
@@ -67,27 +70,29 @@
 /* third part */
 
 #secondpart{
-    margin-top: 100px;
+  display: block;
+    margin-top: 550px;
       float: left;
       line-height: 20px;
       font-size: 50px; 
       margin-left: 150px;
       font-family: helvetica;
-      width: 1000px;
+      width: 1150px;
   }
 
 
   #secondpart p{
-    width: 1000px;
-    font-size: 50px;
+    width: 1150px;
+    font-size: 35px;
     line-height: 45px;
    
 }
 
 #thirdpart{
+  display: block;
     font-size: 50px;
     width: 350px;
-    margin-top: 100px;
+    margin-top: 700px;
     margin-left: 150px;
       float:right;
       line-height: 20px;
@@ -96,9 +101,9 @@
   }
 
   #thirdpart p{
-    width: 1000px;
-    font-size: 60px;
-    line-height: 45px;
+    width: 1150px;
+    font-size: 50px;
+    line-height: 55px;
    
 }
 
@@ -114,10 +119,15 @@
 
 #equipe{
     font-family: helvetica;
-    margin-top: 100px;
-    background-color: #f4d717;
+    margin-top: 2400px;
+    background-color: #e3b01a;
     width: 1500px;
-    height: 1000px;
+    height: 800px;
+
+
+
+
+   
   }
 
 
@@ -132,13 +142,26 @@
   }
 
   #equipe p{
-    text-align: center;
+
+     padding-left:50px;
+    padding-right:50px; 
+    text-align: justify;
+    text-justify: inter-word;
+
+    width:1400px;
+    /* text-align: center; */
     font-size: 55px;
   }
 
 
+  #secondpart2{
+    display: none;
 
+  }
 
+  #secondpart3{
+    display: none;
+  }
 
 
 }

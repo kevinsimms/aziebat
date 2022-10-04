@@ -1,17 +1,55 @@
-@media (max-width: 1270px){
+@media (max-width: 1370px){
 
 
     #bigwrap{
-   
-         grid-template-columns: 400px 400px;
-         width: 400px;
+      
+   margin-left: 00px;
+       /*   grid-template-columns: 400px 400px;
+         width: 400px; */
         
        }
-    
+ 
+       
+       #secondpart{
+        border: 2px solid white;
+         margin-top: 25px;
+         margin-left: 470px;
+          
+       }
+ 
+       #secondwrap{
+        
+         width: 100%;
+       
+       
+       }
+ 
+       #thirdpart{
+         
+         
+      position: absolute;
+         margin-top: 0px;
+         margin-left: 475px; 
+           
+       } 
+
+
+
+
+   /*     #secondpart{
+        margin-left: 50px;
+
+       }
+
+
+
        #thirdpart{
        margin-left: 50px;
-      }
+      } */
     
+      #equipe{
+        margin-top: 260px;
+      }
 
 
 

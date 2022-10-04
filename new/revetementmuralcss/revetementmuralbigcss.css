@@ -1,0 +1,148 @@
+
+
+#photopresentation{
+  z-index: -1;
+    position: relative;
+padding-top: 10px;
+  
+    display: block;
+    
+    
+}
+
+
+
+
+.photo1{
+    width: 100%;
+     position: relative; 
+    
+        /* height: 550px; */
+      }
+
+      #title2{
+        z-index: 160;
+        font-family: helvetica;
+        font-weight: 400;
+        color: #e3b01a;
+        width: 100%;
+        margin: auto;
+    text-align: center;
+      position:absolute;
+      margin-top: -25%;
+      font-size: 38px;
+    
+      }
+
+
+/* secondpart */
+
+#bigwrap{
+  margin-top: 50px;
+
+
+}
+
+#wrap{
+ 
+  color:rgb(90, 90, 90);
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:100px;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-gap:50px;
+}
+
+
+#firstwrap h4{
+ 
+  font-family: helvetica;
+}
+
+#firstwrap p{
+ 
+  font-family: helvetica;
+  font-weight: 100;
+
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.photo2{
+ 
+width:450px;
+       height: 300px; 
+    }
+
+
+/* third part */
+#part3{
+  margin-top: 100px;
+  color:rgb(90, 90, 90);
+  
+}
+
+#part3 h2{
+  font-size: 26px;
+  text-align: center;
+  font-family: helvetica;
+  clear:left;
+  font-weight: 100;
+  
+}
+
+#imgpart3wrap{
+  
+  font-family: helvetica;
+  font-size: 25px;
+  width: 1420px;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-gap:25px;
+}
+
+#imgpart3wrap h4{
+  
+  font-weight: 100;
+  margin-top: 5px;
+  font-size: 20px;
+  width:250px;
+  
+}
+
+
+
+
+.photo3{
+  
+  height: 300px; 
+  width:300px;
+}
+
+
+/* part4 */
+      #equipe{
+        
+        color:rgb(90, 90, 90);
+        font-family: helvetica;
+        margin-top: 00px;
+        background-color: #e3b01a;
+        height: 250px;
+      }
+
+
+      #equipe h2{
+        padding-top: 70px;
+        text-align: center;
+      }
+      #equipe h3{
+        text-align: center;
+      }
+
+      #equipe p{
+        text-align: center;
+      }

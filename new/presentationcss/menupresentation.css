@@ -24,9 +24,16 @@
 
 
 #menu{
+  
     float:right;
     margin-top: 20px;
     width:89%;
+
+    
+}
+
+#menutab{
+    display:none
 }
 
 /* button */
@@ -66,6 +73,10 @@ ul li{
     color:#165667;
   }
 
+
+  #space{
+    color: white;
+}
 
 /* MENU */
 
@@ -124,7 +135,7 @@ ul li{
     
     display: grid;
     grid-template-columns: 100%;
-    width:180px;
+    width:200px;
     margin-right:0px;
 }
 #revetement7{
@@ -232,7 +243,7 @@ ul li{
     height: 3px;
     /* width: 100px; */
     margin-left: 0px;
-    width:145px;
+    width:180px;
     
    
     margin-top: 5px;
@@ -341,7 +352,7 @@ ul li{
         height: 960px;
         background-color: white;
         z-index: 49;
-        position: fixed;
+        position: absolute;
     }
     
     
@@ -566,12 +577,299 @@ ul li{
 @media (max-device-width: 1000px){
 
 
+    
+
+    #menu ul{
+        display: none;
+    }
+
+
+    /* MENU */
+    
+    #menutab{
+        display: block;
+    }
+
+    .tab{
+
+        position: absolute;
+        float:left;
+        font-size: 50px;
+        display: inline;
+        color: #165667;
+        font-family: Helvetica;
+       
+         margin-left: 600px;
+         
+        /*margin-top: 50px; */
+        padding-bottom: 25px;
+        text-decoration: none;
+        list-style-type: none;
+    }
+    
+    #acc{
+       
+        position: absolute;
+        margin-top: -20px;
+        margin-left: 30px;
+    }
+    
+    #qui{
+        position: absolute;
+        margin-top: -20px;
+        margin-left: 300px;
+        width: 630px;
+
+    }
+    
+    #peint{
+        position: absolute;
+        margin-top: -20px;
+        margin-left: 1100px;
+    }
+
+    #rav{
+        margin-top:80px;
+        margin-left: 20px; 
+    }
+    
+    #revmural{
+        position: absolute;
+        margin-top: 80px;
+        margin-left: 600px;
+        width: 600px;
+    }
+    
+    #revsol{
+        position: absolute;
+        margin-top: 200px;
+        margin-left: 0px;
+        width: 650px;
+    }
+    
+    #chant{
+        position: absolute;
+        margin-top: 200px;
+        margin-left: 650px;
+    }
+    
+    #cont{
+        margin-top: 200px;
+        margin-left: 1000px;
+        position: absolute;
+    }
+
+
+
+
+
+    
+    
+    
+    #revetement1{
+        
+        
+        z-index: 500;
+        float: left;
+        display: grid;
+        grid-template-columns: 100%;
+        width:60px;
+    
+        margin-left:-300px;
+    }
+    
+    #revetement2{
+        float: left;
+        
+        display: grid;
+        grid-template-columns: 100%;
+        width:70px;
+    
+        margin-right:25px;
+        margin-left:-100px;
+    
+       
+    }
+    
+    #revetement3{
+        float: left;
+        
+        display: grid;
+        grid-template-columns: 100%;
+        width:95px;
+    
+        margin-left:120px;
+    
+    
+    
+        
+    }
+    
+    #revetement4{
+      /*   float: left; */
+        
+        display: inline-block;
+        /*  grid-template-columns: 100%;  */
+        width:400px;
+        margin-left:180px;
+        margin-top: 00px;
+        display: block;
+    
+    
+       
+    }
+    
+    #space{
+        color: white;
+    }
+    
+    
+    
+    #revetement5{
+        float: left;
+        clear:left;
+        display: grid;
+        grid-template-columns: 100%;
+        width:185px;
+        margin-top:50px;
+        margin-left: -300px;
+    
+    
+        display: block;
+    }
+    
+    #revetement6{
+        float: left;
+        position:absolute;
+        display: grid;
+        grid-template-columns: 100%;
+        width:400px;
+        margin-left:160px;
+        margin-top: 110px;
+    
+        display: block;
+    }
+    #revetement7{
+        float: left;
+        
+        display: grid;
+        grid-template-columns: 100%;
+        width:80px;
+        margin-left:660px;
+        margin-top: 50px;
+    
+    
+        display: block;
+    }
+    #revetement8{
+        float: left;
+        
+        display: grid;
+        grid-template-columns: 100%;
+        width:70px;
+        margin-left:-1070px;
+    margin-top: 150px;
+        display: block;
+    }
+    
+    
+    
+    
+    
+    #entrepriseline3{
+    
+       
+        display: none;
+        background-color: #e3b01a;
+        height: 3px;
+         width: 250px; 
+        margin-left: 0px;
+        
+        
+       
+        margin-top: 5px;
+        clear: left;
+    
+    }
+    
+    
+    
+    
+    
+    
+        
+         #menu{
+            display: block;
+           float: left;
+            width: 135%;
+            
+            margin-left: 200px;
+            margin-top: -200px;
+        } 
+    
+        #header{
+          
+            display: block;
+            height: 100px;
+            width: 100%;
+            margin-top: 00px;
+            
+        }
+    
+        #logo{
+            height: 200px;
+            float: left;
+        }
+    
+    
+    
+        ul li{
+       
+            display: inline;
+            color: #165667;
+            font-family: Helvetica;
+            font-size: 45px;
+            margin-right: 60px;
+            margin-left:300px;
+            margin-top: 50px;
+            padding-bottom: 25px;
+            text-decoration: none;
+            list-style-type: none;
+            
+            
+          }
+    
+    
+    }
+    
+    
+
+
+
+
+
+
+
+
+@media (max-device-width: 400px){
+
+
   /* menu */
+
+
+
+  #menutab{
+    display:none
+}
 
 #logo{
     height: 200px;
     float: left;
     z-index: 80;
+
+    transform: scale(2);
+    margin-left: 120px;
+    margin-top: 110px;
 }
 
 #menu{
@@ -590,6 +888,8 @@ ul li{
 
 
 #button{
+
+    padding-top: 110px;
     
     margin-top: 0px;
     display: block;
@@ -597,7 +897,7 @@ ul li{
     height: 150px;
     margin-left: 1200px;
     z-index: 50;
-    position:absolute;
+    position:fixed;
 }
 
 .line{height:15px ;
@@ -608,13 +908,13 @@ ul li{
 #togglemenu{
     
     
-   
+    margin-top: -300px;
     display: none;
-    width: 1550px;
+    width: 1500px;
     height: 3000px;
     background-color: white;
-    z-index: 1049;
-    position: absolute;
+    z-index: 49;
+    position: fixed;
 }
 
 

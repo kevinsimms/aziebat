@@ -18,10 +18,13 @@
 
 <?php
 
-session_start();
+ session_start(); 
 
 if(isset($_GET["name"]))
 {
+
+
+
 
 
 $_SESSION["chantiername"]=$_GET["name"];
@@ -110,8 +113,22 @@ if(!isset($_SESSION["count"])){
   
     }
   
+
+
+    if($_GET["action"] == "zero")
+    {
+    
+    
+    $_SESSION["count"]=0;
+
+
+  }
+
+
     if($_GET["action"] == "less")
       {
+
+        
       
       
       
@@ -143,7 +160,10 @@ if(!isset($_SESSION["count"])){
   $dbname = "azieb419148";
 
 
-$chantname=$_SESSION["chantiername"];;
+$chantname=$_SESSION["chantiername"];
+
+$i=$_SESSION["count"];
+$chantcount= $_SESSION["orderchantier".$i];
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
@@ -161,7 +181,7 @@ while($row = mysqli_fetch_assoc($result)) {
 
     $rowline="upload/".$row["Photochantierurl"];
     $rowline2=utf8_encode($row["Description"]);
-
+    
 }
 
 
@@ -185,6 +205,7 @@ while($row = mysqli_fetch_assoc($result)) {
 
     <a id="link" href="chantier2.php">
     <img src="imgchantier/xcross.png" alt="jo" id="cross" >
+
     </a>
 
 

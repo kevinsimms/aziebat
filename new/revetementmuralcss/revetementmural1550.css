@@ -1,0 +1,34 @@
+
+@media (max-width: 1550px){
+
+   
+.imagewrap{
+
+    float: left;
+   /*  margin-left: 50px; */
+}
+
+    #imgpart3wrap{
+ 
+       display: grid;
+       width: 800px;
+       height: 100%;
+      
+        grid-template-columns: 50% 50%;
+        
+        grid-gap:12%;  
+      }
+
+      #part3{
+
+        margin-bottom: -600px;
+      }
+
+      /* part4 */
+      #equipe{
+margin-top: 850px;
+
+      }
+
+
+}

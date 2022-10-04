@@ -1,0 +1,61 @@
+@media (max-width: 920px){
+
+
+
+    #photopresentation{
+       margin-top: -100px;
+            
+            
+        }
+
+    #title2{
+        
+      margin-top: 80px;
+      
+    
+      }
+
+
+
+           /* secondpart */
+
+#bigwrap{
+    margin-top: -150px;
+  }
+
+
+  #wrap{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-gap:0px;
+  
+  }
+
+  
+
+.photo2{
+    width: 800px;
+    height: 600px;
+}
+
+
+
+#imgpart3wrap{
+  
+   
+    grid-template-columns: 100%;
+   
+  }
+
+
+.photo3{
+    width: 800px;
+    height: 600px;
+}
+
+
+
+}
